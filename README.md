@@ -75,8 +75,7 @@ The Wishlist page displays the list of movies that the user has added to their w
 
 The application is deployed and can be accessed at:
 
-- https://baghel-amardeep1908.github.io/movie-wishlists/
-
+- https://github.com/Roopesh127/Movie_List
 ## Contact
 
 If you have any questions or feedback about the project, feel free to reach out to me at:
