@@ -80,7 +80,7 @@ The application is deployed and can be accessed at:
 
 If you have any questions or feedback about the project, feel free to reach out to me at:
 
-- Email: baghel.amar1908@gmail.com
+- Email: 9302017774
 
 Thank you for checking out the Movie Wishlists project! I look forward to receiving your feedback and questions.
 # Movie-Wishlist-f
